@@ -38,6 +38,17 @@ namespace Arquivos.Views
                 case 2 :
                     List();
                 break;
+
+                case 3 :
+                    Export();
+                break;
+
+                case 4 :
+                    Import();
+                break;
+
+                default :
+                break;
             }
         }
 
@@ -56,7 +67,7 @@ namespace Arquivos.Views
         {
             string retorno = "";
             retorno += $"Id: {client.Id} \n";
-            retorno += $"Nome: {client.FirtName} {client.LastName} \n";
+            retorno += $"Nome: {client.FirstName} {client.LastName} \n";
             retorno += "------------------------------------------ \n";
             return retorno;
         }
@@ -68,7 +79,7 @@ namespace Arquivos.Views
             client.Id = DataSet.clients.Count + 1;
 
             Console.WriteLine("Informe o primeiro nome:");
-            client.FirtName = Console.ReadLine();
+            client.FirstName = Console.ReadLine();
 
             Console.WriteLine("Informe o sobrenome:");
             client.LastName = Console.ReadLine();
@@ -85,6 +96,26 @@ namespace Arquivos.Views
                 Console.WriteLine("Falha ao inserir! Verifque os dados.");
             else
                 Console.WriteLine("Cliente inserido com sucesso.");
+
+
+        }
+
+        private void Export() 
+        {
+          if(clientController.ExportToTextFile())            
+                 
+            Console.WriteLine("Arquivo gerado com sucesso!");
+          else
+            Console.WriteLine("Deu ruim piazão");
+          
+        }
+
+        private void Import()
+        {
+         if(clientController.ImportFromTxtFile())
+            Console.WriteLine("Dados importados com Sucessoooo!");
+        else
+            Console.WriteLine("Deu ruim piazão!");
 
 
         }
