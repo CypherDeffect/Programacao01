@@ -20,8 +20,7 @@ do
             Console.WriteLine("OPÇÃO CLIENTE");
             ClientView clientView = new ClientView();
         break;
-        
 
     }
     
-} while(option > 0);
+} while(option > 0);r

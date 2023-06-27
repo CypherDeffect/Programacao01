@@ -18,10 +18,6 @@ namespace Arquivos.Models
         // Os métodos construtures são responsáveis 
         // por instaciar uma variável do tipo especificado
         // pela classe.
-        public Client()
-        {
-
-        }
 
         public Client(
         int Id

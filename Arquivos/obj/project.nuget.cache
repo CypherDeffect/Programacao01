@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "rtOhuksUrk9yYm1BiyelljuMxa3ORLfVqO38sztnmnkPOvovFZFajzsNHFp9LxpcFrAhPxLflvuq/8zfpJA0kw==",
+  "dgSpecHash": "3yWNM3KuCdPjdbaWs/FN8AyqUkYHwDgUpia6wI6t6iJy21l2hzE/zTav/Jd0171e//bZ9ayYkjsUOy9LeHiWVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\341484\\Programacao01\\Arquivos\\Arquivos.csproj",
+  "projectFilePath": "D:\\Ciência da Computação - Unoesc\\3° Fase - 2023\\Programação I\\Programacao01\\Arquivos\\Arquivos.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\341484\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
-    "C:\\Users\\341484\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
-    "C:\\Users\\341484\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
-    "C:\\Users\\341484\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+    "C:\\Users\\01man\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\01man\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\01man\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\01man\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
   ],
   "logs": []
 }

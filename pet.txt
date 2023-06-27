@@ -1,0 +1,19 @@
+
+Entradas:
+- ID
+- Informar nome pet
+- CPF do dono
+- telefone para contato
+
+Classe Pet
+
+ Id {get; set}
+ Nome do ihuhu {get; set}
+ CPF dono {get; set}
+ Telefone {get; set}
+
+
+
+
+ 
+

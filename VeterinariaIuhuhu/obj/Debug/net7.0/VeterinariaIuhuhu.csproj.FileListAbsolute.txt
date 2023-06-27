@@ -1,0 +1,15 @@
+D:\Ciência da Computação - Unoesc\3° Fase - 2023\Programação I\Programacao01\VeterinariaIuhuhu\bin\Debug\net7.0\VeterinariaIuhuhu.exe
+D:\Ciência da Computação - Unoesc\3° Fase - 2023\Programação I\Programacao01\VeterinariaIuhuhu\bin\Debug\net7.0\VeterinariaIuhuhu.deps.json
+D:\Ciência da Computação - Unoesc\3° Fase - 2023\Programação I\Programacao01\VeterinariaIuhuhu\bin\Debug\net7.0\VeterinariaIuhuhu.runtimeconfig.json
+D:\Ciência da Computação - Unoesc\3° Fase - 2023\Programação I\Programacao01\VeterinariaIuhuhu\bin\Debug\net7.0\VeterinariaIuhuhu.dll
+D:\Ciência da Computação - Unoesc\3° Fase - 2023\Programação I\Programacao01\VeterinariaIuhuhu\bin\Debug\net7.0\VeterinariaIuhuhu.pdb
+D:\Ciência da Computação - Unoesc\3° Fase - 2023\Programação I\Programacao01\VeterinariaIuhuhu\obj\Debug\net7.0\VeterinariaIuhuhu.csproj.AssemblyReference.cache
+D:\Ciência da Computação - Unoesc\3° Fase - 2023\Programação I\Programacao01\VeterinariaIuhuhu\obj\Debug\net7.0\VeterinariaIuhuhu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ciência da Computação - Unoesc\3° Fase - 2023\Programação I\Programacao01\VeterinariaIuhuhu\obj\Debug\net7.0\VeterinariaIuhuhu.AssemblyInfoInputs.cache
+D:\Ciência da Computação - Unoesc\3° Fase - 2023\Programação I\Programacao01\VeterinariaIuhuhu\obj\Debug\net7.0\VeterinariaIuhuhu.AssemblyInfo.cs
+D:\Ciência da Computação - Unoesc\3° Fase - 2023\Programação I\Programacao01\VeterinariaIuhuhu\obj\Debug\net7.0\VeterinariaIuhuhu.csproj.CoreCompileInputs.cache
+D:\Ciência da Computação - Unoesc\3° Fase - 2023\Programação I\Programacao01\VeterinariaIuhuhu\obj\Debug\net7.0\VeterinariaIuhuhu.dll
+D:\Ciência da Computação - Unoesc\3° Fase - 2023\Programação I\Programacao01\VeterinariaIuhuhu\obj\Debug\net7.0\refint\VeterinariaIuhuhu.dll
+D:\Ciência da Computação - Unoesc\3° Fase - 2023\Programação I\Programacao01\VeterinariaIuhuhu\obj\Debug\net7.0\VeterinariaIuhuhu.pdb
+D:\Ciência da Computação - Unoesc\3° Fase - 2023\Programação I\Programacao01\VeterinariaIuhuhu\obj\Debug\net7.0\VeterinariaIuhuhu.genruntimeconfig.cache
+D:\Ciência da Computação - Unoesc\3° Fase - 2023\Programação I\Programacao01\VeterinariaIuhuhu\obj\Debug\net7.0\ref\VeterinariaIuhuhu.dll
