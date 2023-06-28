@@ -1,4 +1,6 @@
 ﻿using System;
+using VeterinariaIuhuhu.Data;
+using VeterinariaIuhuhu.Models;
 
 class Veterinaria
 {
@@ -21,17 +23,37 @@ class Veterinaria
             switch(entrada)
             {
                 case "1" :
-                    bool aux = true;
-                    while(aux)
-                    {
-                      Console.WriteLine("Informe o nome do Veterinário:");
-                      string vet = Console.ReadLine();  
-                      
-                    }
+                     Veterinario veterinario = new Veterinario();   
+
+            Console.WriteLine("------------------------------");
+            Console.WriteLine("** CADASTRO DE VETERINÁRIOS **");
+            Console.WriteLine("------------------------------");
+            Console.WriteLine("");
+            Console.WriteLine("Informe o primeiro nome:");
+            veterinario.FirstName = Console.ReadLine();
+
+            Console.WriteLine("Informe o sobrenome:");
+            veterinario.LastName = Console.ReadLine();
+
+            Console.WriteLine("Informe o CPF:");
+            veterinario.CPF = Console.ReadLine();            
+
+            Console.WriteLine("Informe o email:");
+            veterinario.Email = Console.ReadLine();     
+
+        /*
+            bool retorno = clientController.Insert(client);
+
+        
+            if( retorno )
+                Console.WriteLine("Cliente inserido com sucesso!");
+            else    
+                Console.WriteLine("Falha ao inserir, verifique os dados!");7
+        */
                 break;
 
             }
-
+        
 
         }while( !entrada.Equals("0") &&
          !string.IsNullOrWhiteSpace(entrada) );
