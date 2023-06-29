@@ -1,6 +1,4 @@
 ﻿using System;
-using VeterinariaIuhuhu.Data;
-using VeterinariaIuhuhu.Models;
 
 class Veterinaria
 {
@@ -23,36 +21,75 @@ class Veterinaria
             switch(entrada)
             {
                 case "1" :
-                     Veterinario veterinario = new Veterinario();   
+                     //Veterinario veterinario = new Veterinario();   
 
             Console.WriteLine("------------------------------");
             Console.WriteLine("** CADASTRO DE VETERINÁRIOS **");
             Console.WriteLine("------------------------------");
             Console.WriteLine("");
-            Console.WriteLine("Informe o primeiro nome:");
-            veterinario.FirstName = Console.ReadLine();
 
-            Console.WriteLine("Informe o sobrenome:");
-            veterinario.LastName = Console.ReadLine();
+            Console.WriteLine("Informe o primeiro nome:");
+            string VetName = Console.ReadLine();
 
             Console.WriteLine("Informe o CPF:");
-            veterinario.CPF = Console.ReadLine();            
+            string VetCPF = Console.ReadLine();            
 
             Console.WriteLine("Informe o email:");
-            veterinario.Email = Console.ReadLine();     
-
-        /*
-            bool retorno = clientController.Insert(client);
-
-        
-            if( retorno )
-                Console.WriteLine("Cliente inserido com sucesso!");
-            else    
-                Console.WriteLine("Falha ao inserir, verifique os dados!");7
-        */
+            string Vetmail = Console.ReadLine();     
+    
                 break;
-
             }
+             switch(entrada)
+            {
+                case "2" :
+                     //Animal animal = new Animal();   
+
+            Console.WriteLine("------------------------------");
+            Console.WriteLine("** CADASTRO DE ANIMAIS **");
+            Console.WriteLine("------------------------------");
+            Console.WriteLine("");
+
+            Console.WriteLine("Informe o nome do Pet:");
+            string PetName = Console.ReadLine();
+
+            Console.WriteLine("Informe o nome do dono:");
+            string OwnerName = Console.ReadLine();
+
+            Console.WriteLine("Informe a idade do Pet:");
+            int PetAge = Convert.ToInt32( Console.ReadLine() );
+
+            break;
+            }
+
+             switch(entrada)
+            {
+                case "3" :
+
+            Console.WriteLine("------------------------------");
+            Console.WriteLine("** CADASTRO DE ATENDIMENTOS **");
+            Console.WriteLine("------------------------------");
+            Console.WriteLine("");
+
+            Console.WriteLine("Informe o nome do Pet:");
+            string PetName = Console.ReadLine();
+
+            Console.WriteLine("Informe o nome do Veterinário:");
+            string VetName = Console.ReadLine();
+
+            Console.WriteLine("Descreva o atendimento");
+            string atendimento = Console.ReadLine();
+
+            break;
+            }
+
+               switch(entrada)
+            {
+                case "4" :
+                Console.WriteLine("Até mais.");
+                break;
+            }
+
+            
         
 
         }while( !entrada.Equals("0") &&
