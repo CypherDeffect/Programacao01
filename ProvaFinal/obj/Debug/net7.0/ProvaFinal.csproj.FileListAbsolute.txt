@@ -1,0 +1,15 @@
+D:\Ciência da Computação - Unoesc\3° Fase - 2023\Programação I\Programacao01\ProvaFinal\bin\Debug\net7.0\ProvaFinal.exe
+D:\Ciência da Computação - Unoesc\3° Fase - 2023\Programação I\Programacao01\ProvaFinal\bin\Debug\net7.0\ProvaFinal.deps.json
+D:\Ciência da Computação - Unoesc\3° Fase - 2023\Programação I\Programacao01\ProvaFinal\bin\Debug\net7.0\ProvaFinal.runtimeconfig.json
+D:\Ciência da Computação - Unoesc\3° Fase - 2023\Programação I\Programacao01\ProvaFinal\bin\Debug\net7.0\ProvaFinal.dll
+D:\Ciência da Computação - Unoesc\3° Fase - 2023\Programação I\Programacao01\ProvaFinal\bin\Debug\net7.0\ProvaFinal.pdb
+D:\Ciência da Computação - Unoesc\3° Fase - 2023\Programação I\Programacao01\ProvaFinal\obj\Debug\net7.0\ProvaFinal.csproj.AssemblyReference.cache
+D:\Ciência da Computação - Unoesc\3° Fase - 2023\Programação I\Programacao01\ProvaFinal\obj\Debug\net7.0\ProvaFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ciência da Computação - Unoesc\3° Fase - 2023\Programação I\Programacao01\ProvaFinal\obj\Debug\net7.0\ProvaFinal.AssemblyInfoInputs.cache
+D:\Ciência da Computação - Unoesc\3° Fase - 2023\Programação I\Programacao01\ProvaFinal\obj\Debug\net7.0\ProvaFinal.AssemblyInfo.cs
+D:\Ciência da Computação - Unoesc\3° Fase - 2023\Programação I\Programacao01\ProvaFinal\obj\Debug\net7.0\ProvaFinal.csproj.CoreCompileInputs.cache
+D:\Ciência da Computação - Unoesc\3° Fase - 2023\Programação I\Programacao01\ProvaFinal\obj\Debug\net7.0\ProvaFinal.dll
+D:\Ciência da Computação - Unoesc\3° Fase - 2023\Programação I\Programacao01\ProvaFinal\obj\Debug\net7.0\refint\ProvaFinal.dll
+D:\Ciência da Computação - Unoesc\3° Fase - 2023\Programação I\Programacao01\ProvaFinal\obj\Debug\net7.0\ProvaFinal.pdb
+D:\Ciência da Computação - Unoesc\3° Fase - 2023\Programação I\Programacao01\ProvaFinal\obj\Debug\net7.0\ProvaFinal.genruntimeconfig.cache
+D:\Ciência da Computação - Unoesc\3° Fase - 2023\Programação I\Programacao01\ProvaFinal\obj\Debug\net7.0\ref\ProvaFinal.dll
